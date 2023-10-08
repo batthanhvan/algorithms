@@ -1,0 +1,8 @@
+# ignore binary file
+*
+!/**/
+!*.*
+
+**/*.exe
+.idea
+.vscode
